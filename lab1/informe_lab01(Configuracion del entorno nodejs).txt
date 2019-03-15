@@ -1,0 +1,47 @@
+DESARROLLO DE APLICACIONES WEB AVANZADO
+Laboratorio 1
+Configuración del Entorno de  Node JS
+
+Nombre:Carlos Enrique Alvarez Iquiapaza
+
+Punto 3.4 del informe
+Estamos brindado una version mas completa a
+nuestro nodejs
+
+Punto 5.1 del informe
+Este punto hace un bucle infinito por lo que al ejecutarlo y mostrarlo en la
+consolo nos sale el error de espacio
+
+Punto 6.1 del informe
+En este punto podemos llamar y mostrar el archivo index.html
+
+Punto 6.5 del informe
+readfileSynx:
+readfile:
+
+punto 7.3 del informe
+El error es que estamos declarando la variable arreglo_parametros
+en un if esto causa errores si es que la condicion no se cumple
+para arreglar el error devemos declarar la variable mas antes
+
+punto 7.6 del informe
+Podemos obtener,manipular las variables enviadas mediante el url 
+
+punto 8.8 del informe	
+Reutilizar codigo en programacion es util ya que podemos utilizarlo para
+otras funciones de nuestro codigo y no escribirlo nuevamente aparte que
+ agilizara el programa	
+
+Conclusiones
+
+-En el desarrollo de este laboratorio vimos lo rapido y facil que se puede
+crear un servidor local con nodejs
+
+-EL mundulo http nos sirve para crear un servidor local
+
+-En el desarrollo de este laboratorio vimos como usar y manipular 
+las variables usadas en una url
+
+-Vimos la importancia de reutilizar codigo de funciones.Este nos permite
+optimizar y agilizar nuestro codigo
+
