@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+
+<body>
+<button id="button">Click </button>
+</body>
+<script type="text/javascript">
+	console.log("q fue");
+	
+	var nodes = document.getElementsByTagName('button');
+for(var i = 0; i<nodes.length; i++){
+	nodes[i].addEventListener('click',function() {
+		// body...
+		console.log('You clicked element # ' + i);
+	});
+}
+</script>
+
+</html>

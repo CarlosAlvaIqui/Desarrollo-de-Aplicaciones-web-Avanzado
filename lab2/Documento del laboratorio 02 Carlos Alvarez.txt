@@ -1,0 +1,21 @@
+Lab02-DAWA - Librerias en Node Implementar Reescribir
+Carlos Enrique Alvarez Iquiapaza
+
+Punto 4.12 Nos muestra los arrays con assignation de SSE
+Punto 7.1 Nos muestra el numero de veces que hacemos click al tag name o id de nombre button
+
+Observaciones y Conclusiones
+
+Tras la resolucion de este laboratorio vimos como exportar archivos a la librerias de npm.Esto puede ser
+usado para otros proyectos o para la comunidad de desarrollo.
+
+Utilizamos y comprendimos las funciones vistas del paquete underscore
+
+La funcion require nos permite llamar y utilizar funciones de otros archivos
+
+El paquete underscore contiene alrededor de 100 funciones 
+
+Al subir un npm devemos tener encuenta de no subir un paquete o archivo con el mismo nombre ya que npm lo tomara con spam y nos causara errores
+o directamente no nos dejara subir el paquete.
+
+
