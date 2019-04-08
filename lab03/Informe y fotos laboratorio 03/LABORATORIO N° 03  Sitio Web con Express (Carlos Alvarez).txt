@@ -1,0 +1,37 @@
+DESARROLLO DE APLICACIONES WEB AVANZADO
+
+LABORATORIO N° 03 
+
+Sitio Web con Express
+
+Alumno: Carlos Enrique Alvarez Iquiapaza
+
+Punto 2.2 y 2.3 Creamos el archivo index.js con el siguiente contenido
+Capturas Punto 2.2 y 2.3
+
+2.11. Luego abre en el navegador la siguiente dirección
+Captura Punto 2.11
+
+2.18. Para utilizar la herramienta, no basta más que con ingresar la URL deseada y hacer
+ click en el método HTTP que deseemos probar. Adjunte capturas del uso de los middlewares 
+declarados en el index.js
+Captura Punto 2.18_1, 2.18_2, 2.18_3 y 2.18_4
+
+2.21. Pruebe la carga de estos archivos accediendo a sus URLs respectivas. 
+Adjunte capturas de su verificación. 
+Captura Punto 2.21 y 2.21_2
+
+Conclusiones y Observaciones
+
+Tras la resolucion de este laboratorio vimos como agregar middleware que nos ayuda a controlar
+errores.
+
+La funcion  de middleware express.static nos ayuda a usar o agregar archivos estaticos
+
+Vimos como enmascarar archivos en js.
+
+Utilizamos la herramienta postman para probar los metodos get,post,put y delete
+
+Fue necesario la resolucion de laboratorios anteriores para la compresion y resolucion de este.
+
+Vimos como utilizar middlewares en js-nodejs.

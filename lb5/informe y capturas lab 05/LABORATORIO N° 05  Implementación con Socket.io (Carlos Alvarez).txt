@@ -1,0 +1,57 @@
+DESARROLLO DE APLICACIONES WEB AVANZADO 
+
+LABORATORIO N° 05 
+
+Implementación con Socket.io
+
+Alumno: Carlos Enrique Alvarez Iquiapaza
+
+
+1.7. Iniciemos nuestro servicio y veamos el resultado del mismo. Adjunte una captura de lo obtenido.
+Capturas lb5 dawa
+
+ 
+2.7. Reinicie el servidor y haga la prueba de enviar los datos del formulario. Deberíamos ver una respuesta en la consola.
+ Adjuntar captura
+Capturas lb5 dawa usuario conectado
+Capturaslb5 dawa captura de envio de data
+
+2.14. Así mismo, adjunte una captura de que dicho registro se haya almacenado en su base de datos. 
+Capturas Punto 2.14_1
+Capturas Punto 2.14_2
+Capturas Punto 2.14_3
+
+3.4. Reinicie el servidor y luego refresque un navegador de los dos abiertos. Vea el resultado y adjunte una captura. 
+Capturas punto 
+
+3.7. Reinicie el servidor y luego refresque un navegador de los dos abiertos. Vea el resultado y adjunte una captura
+Captura punto 3.7
+
+4.6. Reinicie su servidor node y refresque ambos navegadores. Verifique que al actualizar un registro esto se refleja en el otro navegador. 
+Capturas punto 4.6_1
+Capturas punto 4.6_2
+Capturas punto 4.6_3
+
+5.5. Reinicie su servidor node y refresque ambos navegadores. Verifique que al eliminar un registro esto se refleja en el otro navegador. 
+Capturas punto 5.5_1
+Capturas punto 5.5_2
+Capturas punto 5.5_3
+Capturas punto 5.5_4
+
+
+Conclusiones y Observaciones
+
+Vimos que es socket.io y como usar e implemetarlo en nuestros proyectos
+
+Tras la resolucion de este laboratorio vimos como implementar un crud en socket.io
+
+Vimos como implementar funciones que nos permite ver los usuarios conectados en tiempo real asi como
+tener la informacion en tiempo real entre 2 usuarios.
+
+Tras la resolucion de este laboratorio vimos con establecer una conexion de base de datos en nodejs
+
+Profundizamos un poco mas en la estructura de archivos jade
+
+Fue necesario la realizacion de laboratorios anteriores para la compresion y realizacion de
+laboratorios anteriores
+

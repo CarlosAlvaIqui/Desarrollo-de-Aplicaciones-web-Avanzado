@@ -1,0 +1,53 @@
+DESARROLLO DE APLICACIONES WEB AVANZADO
+
+LABORATORIO N° 04
+
+Drives para Node.js de MongoDB
+
+Alumno: Carlos Enrique Alvarez Iquiapaza
+
+
+2.5. Estamos conectados a la base de datos test, para validar que todo está ok ingresaremos un documento de
+prueba y luego haremos la consulta para ver su existencia 
+Capturas punto 2.5
+
+3.5. Estamos creando un tratamiento de datos para nuestra colección producto a través de las cuatro operaciones
+principales del CRUD, indique que líneas corresponden a cada una de estas.
+Capturas punto 3.5
+
+3.8. En el módulo exportado del archivo prod.js, hemos creado una función show. Esta hace referencia a
+prod_model, que es un modelo del Schema antes creado. Nosotros hacemos operaciones sobre los modelos,
+quienes a su vez utilizan los esquemas para poder parsear la data recibida; es decir, para comunicarnos con
+MongoDB desde node.js necesitamos de un modelo, y el modelo necesita un Schema para poder conocer la
+estructura de datos a recibir.
+En el laboratorio de la semana 4 instalamos el navegador Chrome con la extensión Postman REST. Haga uso
+de él para hacer las pruebas pertinentes
+Capturas punto 3.8
+
+3.10. Adjunte capturas haciendo pruebas de las cinco operaciones, tome en cuenta que la url
+localhost:9090/producto ahora acepta un argumento _id opcional, en caso de ser recibido, devolverá el
+documento que coincida con ese _id.
+Capturas punto 3.10 producto-create 1 y 3.10 producto-create 2
+Capturas punto 3.10 producto-detele 1 y 3.10 producto-delete 2 y producto-delete 3
+Capturas punto producto-update 1 y punto producto-update 2
+Capturas punto 3.10 producto-show
+
+3.15. Adjunte una captura de la vista generada en el navegador
+Capturas punto 3.15 vista-table
+
+3.18. Adjunte capturas con el resultado de ingresar a la siguiente URL.
+Capturas punto 3.18
+
+
+Conclusiones y Observaciones
+
+Mongodb soporta varios tipos de variables en la declaracion de un schema
+
+Vimos que es y como es la estructura de los archivos jade
+
+En la resolucion de este laboratorio vimos como crear los metodos crete,update,delete y read(show)
+
+Utilizamos la herramienta postman para probar los metodos get,post, update,delete
+
+En la resolucion de este laboratorio vimos como crear una instancia en mongodb
+
