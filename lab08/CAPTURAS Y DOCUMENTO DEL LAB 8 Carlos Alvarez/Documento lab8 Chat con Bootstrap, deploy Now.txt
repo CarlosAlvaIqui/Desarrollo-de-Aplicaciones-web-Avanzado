@@ -1,0 +1,46 @@
+DESARROLLO DE APLICACIONES WEB AVANZADO 
+LABORATORIO N° 08 
+
+Chat con Bootstrap, deploy Now.sh 
+
+
+
+Alumno: Carlos Enrique Alvarez Iquiapaz
+
+
+
+captura numero 1 (lab08_1_3)
+
+
+
+captura numero 2 (lab08_3_3_1)
+
+
+
+captura numero 3 (lab08_3_3_2)
+
+
+
+captura numero 4 (lab08_3_3_3)
+
+
+
+captura numero 5 (lab08_now_sh)
+
+
+
+captura numero 6 (lab08_now_sh_comandos)
+
+
+
+Conclusiones y Observaciones
+
+
+
+Now.sh nos facilita la implementación de aplicaciones sin tener un servidor corriendo
+
+Fuimos capaces de crear, establecer un chatcon boostrap y que esta tenga comunicación.
+
+Tras la realización del laboratorio fuimos capaces de subir nuestro pagina web son now.sh
+
+Fue necesario la realización de laboratorios anteriores para la comprensión y realización de estee

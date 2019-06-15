@@ -1,0 +1,66 @@
+DESARROLLO DE APLICACIONES WEB AVANZADO 
+LABORATORIO N° 06 
+
+JWT 
+
+
+
+Alumno: Carlos Enrique Alvarez Iquiapaza
+
+
+
+captura numero 1 (Captura login)
+
+
+
+captura numero 2 (captura logueo exitoso)
+
+
+
+captura numero 3 (Captura sesiones)
+
+
+
+captura numero 4 (lab06 get)
+
+
+
+captura numero 5 (lab06 put)
+
+
+
+Conclusiones y Observaciones
+
+
+
+Express es un framework web que nos proporciona la facilidad de  Integración con motores de renderización de "vistas" para generar respuestas mediante la introducción de datos en plantillas, Escritura de manejadores de peticiones con diferentes verbos HTTP en diferentes caminos URL entre otros más.
+
+Fue necesario el uso de la herramienta postman para el testeo y funcionamiento de la api
+
+JSON Web Token nos permite la creación de token que ala vez estos nos permite la probación de identidad y privilegios
+
+Tras la finalización del laboratorio fuimos capaces de crear una api y logeo de usuario funcional
+
+Fue necesario la realización de laboratorios anteriores para la compresión y realización de este
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

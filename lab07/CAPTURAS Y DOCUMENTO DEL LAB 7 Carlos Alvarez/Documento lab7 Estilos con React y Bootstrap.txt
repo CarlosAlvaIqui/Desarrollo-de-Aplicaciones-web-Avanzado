@@ -1,0 +1,52 @@
+DESARROLLO DE APLICACIONES WEB AVANZADO 
+LABORATORIO N° 07 
+
+Estilos con React y Bootstrap 
+
+Alumno: Carlos Alvarez Iquiapaza
+
+
+
+
+Captura numero 1 (lab07 dawa footer-header)
+
+
+
+Captura numero 2 (lab07 dawa footer-header_2)
+
+
+
+Captura numero 3 (lab07 dawa carousel de imagenes)
+
+
+
+Captura numero 4 (lab07 dawa nuevo footer)
+
+
+
+Captura numero 5 (lab07 dawa carousel de imagenes)
+
+
+
+Captura numero 6 (lab07 dawa boton de incio de sesion)
+
+
+
+Captura numero 7 (lab07 dawa logueo)
+
+
+
+Captura numero 8 (lab07 dawa logueo exitoso)
+
+
+
+Observaciones y conclusiones
+
+
+React-bootstrap reemplaza el javascript de bootstrap
+
+En react-boostrap cada componente se ha creado desde cero esto hace que no tenga dependencia innecesarias como jQuery
+
+Tras la realización del laboratorio vimos como personalizar una pagina web como librerias de react
+
+Fue necesario la realización de laboratorios anteriores para realización y comprensión de este

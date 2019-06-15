@@ -29,5 +29,4 @@ http.createServer(function (req,res) {
 		res.write(html_string);
 		res.end();
 	});
-
 }).listen(8080);

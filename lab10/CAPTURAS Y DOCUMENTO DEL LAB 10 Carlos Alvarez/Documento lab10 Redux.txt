@@ -1,0 +1,37 @@
+DESARROLLO DE APLICACIONES WEB AVANZADO 
+LABORATORIO N° 10 
+
+
+
+Redux 
+
+
+
+Nombre: Carlos Enrique Alvarez Iquiapaza
+
+
+
+captura numero 1 (lab10_redux)
+
+
+
+Conclusiones y Observaciones
+
+
+Vimos Redux thunk es un middleware que nos permite escribir action creators que devuelven una función en lugar de una acción
+
+
+
+thunk es una función que envuelve una expresión para retrasar su evaluación
+
+
+
+Tras la realización del laboratorio vimos que redux permite describir la interfaz de usuario como una función de estado
+
+
+
+Redux también emite actualizaciones de estado en respuesta a acciones
+
+
+
+Fue necesario la realización de laboratorios anteriores para la compresión y realización de este

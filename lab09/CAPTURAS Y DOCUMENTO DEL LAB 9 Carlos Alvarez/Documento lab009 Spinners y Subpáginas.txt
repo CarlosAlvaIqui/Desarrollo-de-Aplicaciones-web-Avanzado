@@ -1,0 +1,32 @@
+DESARROLLO DE APLICACIONES WEB AVANZADO 
+LABORATORIO N° 09 
+
+Spinners y Subpáginas
+
+Alumno: Carlos Enrique Alvarez Iquiapaza
+
+
+
+captura numero 1 (lab09_animacion de carga)
+
+
+
+captura numero 2 (lab09_profiledetails)
+
+
+
+captura numero 3 (lab09_profileedit)
+
+
+
+Conclusiones y Observaciones
+
+
+
+Morgan es un HTTP middleware de logger de solicitud para node.js
+
+loading.io es un css de código abierto que nos permite implementar animaciones de carga a nuestro proyecto.
+
+Tras la realización del laboratorio fumos capaces de implementar de manera correcta react router
+
+Fue necesario la realización de laboratorios anteriores para la comprensión y realización de este
